@@ -1,6 +1,6 @@
 var host = window.location.host;
 
-if(document.querySelector("span#azerty") === null){
+if(document.querySelector("span#azerty") === null){    
     // to make code run only once 
     var mark = document.createElement("span");
     mark.id = "azerty";
@@ -56,6 +56,9 @@ if(document.querySelector("span#azerty") === null){
             break;
         case "fanfox.net":
             fanfoxF();
+            break;
+        case "www.toongod.org":
+            toongodF();
             break;
         default:
             let domain = host.split(".").slice(-2).join(".");

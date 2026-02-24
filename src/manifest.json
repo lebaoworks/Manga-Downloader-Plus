@@ -45,6 +45,7 @@
 		"https://*.pstatic.net/*",
 		"https://*.sailmg.com/*",
 		"https://*.toonily.com/*",
+		"https://*.toongod.org/*",
 		"https://*.uqni.net/*"
 	],
 	"optional_host_permissions" : [
@@ -96,6 +97,7 @@
 			"*://manga4life.com/*",
 			"*://www.sailmg.com/*",
 			"*://toonily.com/*",
+			"*://www.toongod.org/*",
 			"*://manhuaus.com/*",
 			"*://mangatx.to/*",
 			"*://toonclash.com/*",
@@ -122,6 +124,7 @@
 			"Scripts/mangatown.js",
 			"Scripts/loveheaven.js",
 			"Scripts/fanfox.js",
+			"Scripts/toongod.js",
 			"index.js"
 		],
 		"css": ["Styles/md-style.css"]
